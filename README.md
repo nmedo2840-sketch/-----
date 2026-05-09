@@ -643,7 +643,7 @@ nav a{
                 <div class="card-buttons">
 
                     <a class="enter-btn"
-                    href="https://nmedo2840-sketch.github.io/-/"
+                    href="https://nmedo2840-sketch.github.io/Marine--production../"
                     target="_blank">
 
                         ENTER DIVISION
